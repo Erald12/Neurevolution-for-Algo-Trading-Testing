@@ -24,7 +24,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Neurevolution-for-Algo-Trading-Testing.git
+   git clone https://github.com/Erald12/Neurevolution-for-Algo-Trading-Testing.git
    cd Neurevolution-for-Algo-Trading-Testing
    ```
 
