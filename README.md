@@ -82,8 +82,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact
 For questions or collaborations, reach out to:
 - **Author**: Erald
-- **Email**: [your-email@example.com]
-- **GitHub**: [your-github-profile-link]
+- **Email**: [erald.almoete@gmail.com]
+- **GitHub**: [https://github.com/Erald12]
 
 ---
 
