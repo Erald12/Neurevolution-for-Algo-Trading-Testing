@@ -62,7 +62,7 @@ python main.py
 Integrate the trained model into your live trading system using real-time data from the configured exchange.
 
 ## Key Files
-- `main.py`: Main script to run the training and testing processes.
+- `neat_model_17_train.py`: Main script to run the training and testing processes.
 - `neat_config6.txt`: Configuration file for NEAT hyperparameters.
 - `data/`: Folder containing historical market data.
 - `utils.py`: Utility functions for preprocessing, visualization, and logging.
