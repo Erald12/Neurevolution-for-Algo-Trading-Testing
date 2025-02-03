@@ -1,7 +1,7 @@
-# Neurevolution for Algo Trading Testing
+# Neuroevolution for Algo Trading Testing
 
 ## Overview
-**Neurevolution for Algo Trading Testing** is a project that leverages the power of NeuroEvolution, specifically the NEAT (NeuroEvolution of Augmenting Topologies) framework, to optimize algorithmic trading strategies in volatile markets like cryptocurrency trading. The system evolves neural networks to adaptively predict and react to market dynamics, helping users make better trading decisions.
+**Neuroevolution for Algo Trading Testing** is a project that leverages the power of NeuroEvolution, specifically the NEAT (NeuroEvolution of Augmenting Topologies) framework, to optimize algorithmic trading strategies in volatile markets like cryptocurrency trading. The system evolves neural networks to adaptively predict and react to market dynamics, helping users make better trading decisions.
 
 ## Features
 - **NEAT Implementation**: Evolutionary neural networks optimized for buy, sell, and hold decisions.
